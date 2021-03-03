@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScottSewards.
+- 👋 Hi, I’m Scott Sewards.
 - 👀 I’m interested in making websites.
 - 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on nought.
