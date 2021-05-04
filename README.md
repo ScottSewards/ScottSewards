@@ -1,1 +1,1 @@
-Me Scott.
+I am Scott.
